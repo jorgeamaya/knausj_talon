@@ -102,7 +102,7 @@ brows,browse
 brut,brute
 build,billed
 bullion,bouillon
-buoy,boy
+buoy,boy,void
 burger,burgher
 burrow,borough,burro
 bury,berry
@@ -267,7 +267,6 @@ grill,grille
 grizzly,grisly
 grown,groan
 guest,guessed
-gauge,gage
 hale,hail
 hall,haul
 halve,have
@@ -336,7 +335,6 @@ lens,lends
 lesson,lessen
 lets,let's
 levee,levy
-light,lite
 liken,lichen
 links,lynx
 littoral,literal
@@ -438,7 +436,6 @@ pigeon,pidgin
 pilot,Pilate
 pique,peak,peek
 pistol,pistil
-plaque,plack
 plait,plate
 plane,plain
 pleas,please
@@ -457,7 +454,7 @@ principal,principle
 prints,prince
 prophet,profit
 prose,pros
-purl,pearl,perl
+purl,pearl
 purveyed,pervade
 quartz,quarts
 quints,quince
@@ -478,7 +475,6 @@ review,revue
 rigor,rigger
 ring,wring
 rite,right,write
-roads,rhodes
 roam,Rome
 roe,row
 roll,role
@@ -557,10 +553,8 @@ taut,taught
 tea,tee
 team,teem
 teas,tease,tees
-tear,tare
 tens,tends
 tents,tense
-than,then
 the,thee
 theirs,there's
 there,they're,their
